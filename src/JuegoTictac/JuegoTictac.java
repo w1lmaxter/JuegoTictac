@@ -3,7 +3,7 @@ package JuegoTictac;
 import java.awt.Color;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
-
+//se agrega comentario en git hub
 public class JuegoTictac extends javax.swing.JFrame {
 
     private String IniciarJuego = "x";
